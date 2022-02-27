@@ -1,6 +1,6 @@
 # Computer Architecture Logisim Circuits
 Some logisim circuits I did for my computer architecture class.
-You can test the HackComputer (from [Nand to Tetris](https://www.nand2tetris.org/)) as follow:
+You can test the HackComputer (from [Nand to Tetris](https://www.nand2tetris.org/)) as follows:
 ```
 java -jar logisim-generic-2.7.1.jar HackComputer/hack-computer.circ
 ```
